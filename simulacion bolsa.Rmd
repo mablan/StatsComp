@@ -2,7 +2,10 @@
 title: "Ejemplo:Simulación de Precios de Acciones en la Bolsa"
 author: "Magdiel Ablan"
 date: "23/03/2015"
-output: html_document
+output:
+  github_document:
+    toc: true
+    toc_depth: 2  
 ---
 Ejercicio propuesto en: Jones Owen, Robert Maillardet, and Andrew Robinson. 2009. *Introduction to Scientific Programming and Simulation Using R*. Chapman and Hall/CRC
 
